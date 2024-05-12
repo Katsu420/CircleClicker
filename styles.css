@@ -1,0 +1,39 @@
+h1{
+  
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+  }
+  body{
+    background: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_1280.png); background-size: 100vw 100vh; background-repeat: no-repeat;
+  }
+  
+  .counter{
+    position: absolute;
+    text-align: left;
+    font-size: x-large;
+    font-style: bold;
+    
+  }
+  .circle{
+    position: absolute;
+    width: 10vh;
+    height: 10vh;
+  
+    left: 0vh;
+    bottom: 0vh;
+    background-color: azure;
+    border-radius: 50%;
+  }
+  .counter{
+    font-size: x-large;
+    font-weight: bold;
+    color: aliceblue;
+  }
+  
+  .time{
+    font-size: x-large;
+    text-align: right;
+    font-weight: bold;
+    color: aliceblue;
+  }
+  
